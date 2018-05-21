@@ -1,0 +1,7 @@
+public class Card implements CardInterface
+{
+  public int getRank()
+  {
+    return rank;
+  }
+}
